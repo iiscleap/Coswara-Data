@@ -4,6 +4,8 @@ Project Coswara by Indian Institute of Science (IISc) Bangalore is an attempt to
 
 #### This is the data repository for Project Coswara. (https://coswara.iisc.ac.in/)
 
-<p>Each folder contains metadata and recordings corresponding to a person. Voice samples collected include breathing sounds (fast and slow), cough sounds (deep and shallow), phonation of sustained vowels (/a/ as in made, /i/,/o/), and counting numbers at slow and fast pace. Metadata information collected includes the participant's age, gender, location (country, state/ province), current health status (healthy/ exposed/ cured/ infected) and the presence of comorbidities (pre-existing medical conditions). </p>
+<p>Each folder contains metadata and recordings corresponding to a person. The audio recordings are in wav format.
+
+Voice samples collected include breathing sounds (fast and slow), cough sounds (deep and shallow), phonation of sustained vowels (/a/ as in made, /i/,/o/), and counting numbers at slow and fast pace. Metadata information collected includes the participant's age, gender, location (country, state/ province), current health status (healthy/ exposed/ cured/ infected) and the presence of comorbidities (pre-existing medical conditions). </p>
 
 - 2020-04-15 contains 161 samples. 
