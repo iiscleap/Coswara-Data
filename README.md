@@ -12,7 +12,7 @@ Voice samples collected include breathing sounds (fast and slow), cough sounds (
 - 2020-04-16 contains 198 samples.
 
 To download the data, you can merge the split tar files using the command below to obtain a single tar file and then untar it.
-`cat *.tar.gz.* > <insert_file_name>.tar.gz `
+`cat *.tar.gz.* > file_name.tar.gz `
 
 Each folder also has a CSV file which contains metadata of each sample.
 
