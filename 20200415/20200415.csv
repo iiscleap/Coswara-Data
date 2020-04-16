@@ -1,0 +1,162 @@
+l_c,id,covid_status,l_l,date,ep,a,l_s,g
+India,03TmwzsdEBVEh35MRMbC9d0NnfI3,resp_illness_not_identified,Kurnool,2020-04-13T15:01:20.883Z,y,21,Andhra Pradesh,male
+United States,0KOy96zEUfdMY4rZzwrDT0gMPDa2,Brazos County,y,healthy,2020-04-15T06:22:05.486Z,22,Texas,male
+India,0gB18cWHioTobGuU3qVE0QV5mBN2,True,Hyderabad ,y,healthy,2020-04-14T07:23:11.770Z,24,Telangana,male
+India,1Vm44aluw7PMy2mfETHc3MvwQxx1,True,Bangalore,y,healthy,2020-04-14T17:46:00.714Z,39,Karnataka,male
+India,1j2LqFPOJIQ8nTlovQqNr6bdUMl1,Bangalore,y,healthy,2020-04-14T09:20:33.975Z,48,Karnataka,female
+India,1kj3twlB9PcVyePxzqNGwnkYZZx2,Chennai,y,healthy,2020-04-14T10:28:09.293Z,57,Tamil Nadu,male
+India,1pXSBzMeizcu5IpLAJUaYpmJyhB3,Mumbai,y,healthy,2020-04-14T20:10:29.027Z,30,Maharashtra,female
+India,1woiacXdMmXUQiMWESqr83uk1NV2,healthy,Bengaluru/Marathahalli,2020-04-14T01:16:16.001Z,y,30,Karnataka,male
+India,269e2kDksfRXKVHNXf4ACl9JUVm1,True,Mahadevpura,y,healthy,2020-04-15T01:24:18.761Z,45,Karnataka,male
+India,26xevAvhh4PSIz1ls0QAwwfz89i1,Ahmedabad,y,healthy,2020-04-14T02:55:43.637Z,29,Gujarat,female
+India,2SLFvRD3jTUJc8iOMnN2XHG3uXv1,Bangalore ,True,y,resp_illness_not_identified,2020-04-14T06:43:13.460Z,23,Karnataka,male
+India,2j94Kg8TewQwjwbrRyto6seGsut1,healthy,True,Bangalore,2020-04-14T14:13:49.892Z,y,28,Karnataka,female
+India,33uBb3ZF1NekffyAZpRdmyP0KHH2,Bangalore,y,healthy,2020-04-15T02:14:52.579Z,27,Karnataka,female
+India,3Hi3v8KLYxXvAp9v1fuhKtaU44G2,Hyderabad,y,healthy,2020-04-14T09:42:33.262Z,54,Telangana,male
+India,3LCqXTY14jROmsMpG3XkEiMJ9cD3,Bengaluru,y,healthy,2020-04-14T19:01:45.083Z,42,Karnataka,male
+India,3OQBJD8fnBepqWPGQT3eTozrhLn1,True,Gadag,y,healthy,2020-04-15T02:52:21.084Z,42,Karnataka,male
+India,3PIiY2eRLVUN4Tba0a8ZN5W6frA3,Bangalore ,y,healthy,2020-04-15T05:36:58.283Z,32,Karnataka,female
+Oman,4EAxuOcgN5d81JCmqo2YxXlxYNL2,healthy,2020-04-14T20:52:31.753Z,y,40,ash-Sharqiyah,male
+India,5CuTYRsGM5QRNjG7HejSHQh7ULi1,True,Whitefield ,y,healthy,2020-04-15T06:08:59.075Z,55,Karnataka,male
+India,5JO89F9hCpVbVFy7jFqPKtVRyIV2,Jharsuguda,y,healthy,2020-04-14T14:32:43.930Z,25,Odisha,male
+India,5eEXozx61BXKT71PLRaQASRcC832,y,healthy,2020-04-14T03:56:59.454Z,22,Karnataka,female
+India,6IBOagmXVWPJaN48oiaAigwiDbw2,Chennai,y,healthy,2020-04-14T12:22:15.529Z,26,Tamil Nadu,male
+India,6VbC2mWfKiWVQPL1tHVmG5eCkua2,Bangalore,y,healthy,2020-04-14T14:03:34.421Z,30,Karnataka,male
+India,6sUnPQNXQCYawfmLL8Pg91UxoiI3,Cuttack,y,healthy,2020-04-14T13:52:18.088Z,23,Odisha,female
+India,779c1GiOSsSsxsi1PrMGXwOrIuo2,True,Chennai,y,healthy,2020-04-14T17:33:43.977Z,39,Tamil Nadu,male
+United States,78UvO8TmtycKb98kr2eXeDdLpST2,Somerset county,y,healthy,2020-04-13T14:26:52.899Z,36,New Jersey,female
+India,7yQ29b3Q1KfOIk5K1MSeGTsWqGB2,True,y,resp_illness_not_identified,2020-04-14T17:57:49.763Z,27,Karnataka,male
+India,85XodgEaKrPebeSPsJo2UFaDlWj1,Bangalore,y,healthy,2020-04-15T08:36:07.394Z,37,Karnataka,male
+India,95XA3QmnULQ1KPlcdw4RDDKnBhH2,y,healthy,2020-04-14T13:18:18.158Z,26,Karnataka,male
+Germany,9LGZxIxgbgSheKov7FzsNcFIu4v1,Mitte,y,healthy,2020-04-15T07:12:33.104Z,25,Berlin,female
+India,9esRO6MV7jhuNNWR9i0j6gBrkXG2,Mumbai Suburban,y,healthy,2020-04-14T09:45:28.373Z,59,Maharashtra,male
+India,9qXBPCugOSe0Yl1GhThi1kCVZDD2,y,healthy,2020-04-15T06:14:21.786Z,19,Karnataka,female
+India,A6eyvPDHwBNMYFzA65XRMboV96s2,healthy,2020-04-14T12:56:37.990Z,y,23,Odisha,male
+India,AdRRprqo5ZUuLMOPs61ZKS6vrdU2,Bangalore,y,healthy,2020-04-15T07:29:18.779Z,20,Karnataka,male
+India,AeJcnB6Pl6ayw2YL7whgWyYSVnz2,Test,y,healthy,2020-04-14T03:47:29.650Z,22,Karnataka,male
+India,ArKST1jJWqRPPvdCu92MyQoGs762,True,AHMEDABAD ,y,True,healthy,2020-04-14T14:49:58.000Z,65,Gujarat,male
+India,BRi5khF6PxMORMTOXjeS6r2dNqt1,Bengaluru,y,healthy,2020-04-14T17:54:57.550Z,44,Karnataka,male
+United States,ByeE6FPls3S20RP7vxsLDkmqpA32,True,Dunwoody,y,healthy,2020-04-14T03:19:43.782Z,55,Georgia,female
+India,C1Jk83bZcXQM2lljEqVIr6OfMr83,Bangalore ,y,healthy,2020-04-13T16:49:34.737Z,26,Karnataka,female
+India,CFwFsoyLtGUxPNPw5vMD7cznAnO2,Coimbatore,y,healthy,2020-04-14T17:33:12.029Z,40,Tamil Nadu,male
+Germany,CZT9HTBNgaQrTVKBjIBUtlu6Dgx1,Frankfurt,y,healthy,2020-04-14T12:28:19.588Z,29,Hessen,female
+India,D1d4hc9MrgTDxgAhqpTgqOEJtLp2,Noida,y,healthy,2020-04-14T09:56:28.338Z,59,Uttar Pradesh,male
+India,DIaVEL0f1kXNG6KXgBMEQ54yirD3,Lucknow,True,y,resp_illness_not_identified,2020-04-15T07:14:58.766Z,20,Uttar Pradesh,male
+India,DpU572tPYaXZXMglBud6sRIaq8y2,Bangalore,y,healthy,2020-04-14T09:51:28.105Z,60,Karnataka,male
+India,E3X8YtvZzYZiXwBevZEAByJc2v63,Bengaluru,y,healthy,2020-04-14T13:11:29.481Z,57,Karnataka,female
+India,EcO51zxmIHcVtAUlxnvO6wA8JcR2,Raipur,y,healthy,2020-04-13T17:33:41.482Z,34,Chhattisgarh,male
+India,FNjPKyX47sUuQlzMc1urJ3VB3YE3,healthy,True,Bangalore,2020-04-14T12:43:10.211Z,y,24,Karnataka,male
+India,FQ9gUWPXRGc9z7Q4f3tMojFVrR82,healthy,Bengaluru,2020-04-14T10:09:16.863Z,y,23,Karnataka,female
+United States,GEPcHiIXaSVyNNL5sqIBZxytIps1,Berkeley,True,y,resp_illness_not_identified,2020-04-15T07:24:06.718Z,22,California,male
+India,GKhkkTlN0PdIgHoEtwXlRlCqMd13,True,Bengaluru,y,healthy,2020-04-14T14:46:01.301Z,63,Karnataka,male
+India,GWjZnz8QWXXGzHLaG0HNHFyeZgS2,Trivandrum ,y,healthy,2020-04-15T07:09:24.306Z,38,Kerala,male
+India,GZM32y1Sy6X9D9hfrrvpTdPfmoV2,Mandi,True,y,healthy,2020-04-14T05:36:10.422Z,41,Himachal Pradesh,male
+United States,H0tBSJN5l8db5f6xB2yMm6QxjFO2,y,healthy,2020-04-15T06:54:39.471Z,25,Delaware,male
+India,HltnpdE31PPFAFYRdJXRXokmdUF2,healthy,Alwar,2020-04-15T02:34:57.176Z,y,25,Rajasthan,male
+India,HmsAhPiHhiQOnvXYXzZ5u5qFqLq1,Bengaluru,y,healthy,2020-04-14T12:14:50.262Z,27,Karnataka,male
+India,HxbOUFGbq4fKbs0nTLUQ5UmlZ9y2,Haralur,y,healthy,2020-04-15T05:09:38.110Z,34,Karnataka,male
+India,IH5AenjC1DTmH4Rw4PhvnaKHbmw2,Kolkata,y,healthy,2020-04-14T07:04:39.389Z,23,West Bengal,male
+United States,IVUrhfpO08QnE9S8UR1hk4DquTa2,y,healthy,2020-04-13T15:02:41.909Z,28,Pennsylvania,male
+India,ImU3ZpdqkRPNAy6Ol61zoGuq8sj1,Bangalore,True,y,resp_illness_not_identified,2020-04-15T06:05:16.257Z,23,Karnataka,male
+India,IxdOYraXjNXf620JP1hexb3YDJ93,Bangalore,y,healthy,2020-04-14T12:17:34.155Z,25,Karnataka,male
+Canada,JLXdsKrUesSLpwUOMSqQFfYwtZ82,Montreal,y,healthy,2020-04-14T16:50:28.909Z,27,Quebec,female
+India,JtJEMsy1XPalUgUWmzkLyq9LWbI2,True,Kollam,y,healthy,2020-04-15T08:33:27.982Z,29,Kerala,male
+United States,KqhQ8Eo62fYCdBse8NiW1BYCtxp1,Alameda,y,healthy,2020-04-13T18:40:39.486Z,33,California,male
+India,L6Bo4rMk15fKste9Gvn7ZyTB4qw2,healthy,bengaluru,2020-04-14T12:28:57.439Z,y,32,Karnataka,male
+India,LVfs0kH8h3YRSg7J3Y8g3ufC3a53,Bangalore,y,healthy,2020-04-13T16:45:29.195Z,24,Karnataka,male
+India,LwOBSX8F07Z5HgRGLFS3aOQEVKk2,Bengaluru,y,healthy,2020-04-13T16:10:00.943Z,25,Karnataka,female
+India,M1RgcbGDbWbsxNkmPHlrh9J9n572,Siliguri ,True,y,healthy,2020-04-15T07:25:50.633Z,31,West Bengal,male
+United States,MGvc85QJD7PFeYxoAeTxsiq4wHr1,no_resp_illness_exposed,Philadelphia ,2020-04-13T15:26:28.269Z,y,29,Pennsylvania,female
+India,MbCfQyWYGIeZ5m0BCTeiM1oi7282,Ranchi,y,healthy,2020-04-13T17:11:39.186Z,26,Jharkhand,male
+India,NBD8pzxLyyYZs8wul5W6UUKBZbz1,True,Andheri/ Mumbai,y,healthy,2020-04-14T17:38:20.458Z,44,Maharashtra,male
+India,Na6w7stX7ocNYZPQW9MQAiM6mrw2,healthy,Bangalore ,2020-04-14T16:39:17.221Z,y,38,Karnataka,male
+India,O9jPNdypMudWbGGiqtlgi4ae2er1,True,Bengaluru,y,healthy,2020-04-14T07:01:56.462Z,46,Karnataka,female
+India,P8Qw2Prg2BRb7H72PbY3Dftp9Rv2,Bengaluru,y,healthy,2020-04-15T01:12:43.504Z,47,Karnataka,female
+India,PMVjl7cZfEaQD3QaKjvAG4Kidt92,Anand,y,resp_illness_not_identified,2020-04-14T13:36:41.883Z,36,Gujarat,male
+India,PaLptWlM9gTtp7lUybcAaXGkqhj2,y,healthy,2020-04-15T05:57:13.521Z,45,Karnataka,male
+India,PfuMI67JW2h6z4MsRDegrhZ8FSH2,Bangalore,y,healthy,2020-04-14T05:18:48.455Z,22,Karnataka,male
+India,PmbK8Rb4ohNWp4KwTtlU8xzxFGs2,Bangalore,y,healthy,2020-04-14T20:22:29.648Z,24,Karnataka,male
+India,QC2olizheGbckya2rPjOWhn00vp1,Noida,y,healthy,2020-04-13T23:17:02.725Z,36,Uttar Pradesh,male
+India,QKEe27GzshbGSIGQZ6nB6lpLb7l2,bengaluru,y,healthy,2020-04-14T12:37:00.376Z,30,Karnataka,male
+France,QOmSmWWvcLOxZgzrV4u04ByoebE2,Moidieu,y,healthy,2020-04-14T15:29:50.974Z,25,Isere,female
+Switzerland,QX7F5dwjZKPahv2qzqpSSBIyHXg2,y,healthy,2020-04-14T16:25:27.605Z,35,Valais,male
+India,QlMu7Fl8iIgOZM3QHEOzOJY6npH3,Coimbatore,y,healthy,2020-04-14T06:58:58.719Z,32,Tamil Nadu,male
+India,Qs7OP1Hyo6Y4ZE2s4aZyZ3Ew6r62,Bengaluru,y,healthy,2020-04-14T06:55:37.356Z,24,Karnataka,female
+India,Qxlw2hDL29g1Sb9ZQO3XDPIG5Qr1,Medchal-Malkajgiri,y,healthy,2020-04-15T02:40:54.668Z,29,Telangana,male
+India,R1wbQWmviENBtOcugCHjcmvRl6o2,True,"Hennur, Bangalore",y,True,healthy,2020-04-15T08:46:36.362Z,59,Karnataka,male
+India,RXZtiZlgDxObuYr4m2s8eSavVg72,Bilaspur,n,healthy,2020-04-13T17:16:51.803Z,30,Chhattisgarh,male
+India,SiEdfz3YnndtOTlm8CIVK4YQcg42,Bengaluru,y,healthy,2020-04-14T11:36:09.733Z,59,Karnataka,male
+India,StMoprM57wPyrUs5p0s78r1X0Qt1,Bengaluru,y,True,healthy,2020-04-15T03:07:31.302Z,51,Karnataka,male
+India,TIFqRMyFsNVEYSMu9P05PF5N2Px1,True,Udaipur,y,healthy,2020-04-13T20:26:54.018Z,62,Rajasthan,male
+India,TKhrUVnxGFfRdH4oaKwMXiwjR082,True,Thrissur,y,resp_illness_not_identified,2020-04-14T09:42:45.403Z,36,Kerala,male
+India,UJkJrzKjH6UQRZF7eHhUQVQwCHB2,Ranga reddy,y,healthy,2020-04-13T14:45:41.202Z,25,Telangana,male
+India,UUzQFgPDt5cC2mL6zDlgm7LvU4r2,Bangalore,y,no_resp_illness_exposed,2020-04-14T10:07:49.135Z,22,Karnataka,male
+India,UVQ8rnPQiYbVAuvPI1uGYIJZmQZ2,True,Bangalore,y,True,resp_illness_not_identified,2020-04-13T14:16:17.805Z,31,Karnataka,male
+India,UYQqLbdvfMeQOnISZq4Okwuas6K2,Thane ,y,healthy,2020-04-14T11:43:48.442Z,66,Maharashtra,male
+India,UhGuA2vn7sUfKJRENR472IxQaEu2,Varthur,y,healthy,2020-04-15T06:06:35.388Z,42,Karnataka,female
+India,V3EIT06H4JN5KwoK8aGRXQNzGRi1,Ernakulam,y,healthy,2020-04-15T02:20:58.510Z,58,Kerala,male
+India,VGh9wqs8iDXHhUdrA12VtBhN1lJ3,Navi Mumbai,y,healthy,2020-04-14T06:59:29.016Z,37,Maharashtra,male
+India,X7NBHQKdeDODKCzXwbmKdIbjIRG2,Ongole,y,True,healthy,2020-04-15T07:35:01.394Z,27,Andhra Pradesh,male
+United States,XoXEyaVStbMpBgQXljyI59CPI4m1,y,no_resp_illness_exposed,2020-04-13T15:26:32.202Z,30,Georgia,male
+India,YXqC5B7h7iQZH3RubUFG6SBvZ5L2,healthy,2020-04-15T07:52:10.450Z,y,25,Kerala,male
+India,YjUO0QbUUAUJyUfgApL52jRs8Z52,Kasaragod ,y,healthy,2020-04-15T06:18:29.873Z,43,Kerala,male
+India,ZTlauEp4EjMLV0LKWsxXnRopWvC3,Bangalore ,y,no_resp_illness_exposed,2020-04-14T12:45:14.963Z,29,Karnataka,male
+India,ZbFodPVPEZMK0DaH4J74kowt1d53,healthy,Bangalore,2020-04-15T02:04:43.322Z,y,38,Karnataka,male
+India,ZkYT8z9lW7N4UfY1L9CqlOs9ouk1,Trivandrum,y,no_resp_illness_exposed,2020-04-15T08:48:25.323Z,25,Kerala,male
+India,ZmJz4NgHHRZAwzUAVvkXBOmRSTA3,resp_illness_not_identified,gorakhpur,2020-04-13T18:28:57.168Z,True,y,25,Uttar Pradesh,female
+United States,ZnfFHbrHryWzAq27TCTQtY7uWTm1,True,Santa Cruz,y,healthy,2020-04-13T18:27:28.130Z,28,California,female
+Canada,a1BWeGHqK6f0KyevbStawfUvvK83,healthy,Toronto,2020-04-14T03:35:02.334Z,y,22,Ontario,male
+India,abpYyjmAQAMGlnyqXPGIL9lbnQo2,Bangalore,y,healthy,2020-04-15T07:09:04.411Z,31,Karnataka,male
+India,aisIUPkXXdQv8nvNAjeJb8cebOq2,healthy,Bengaluru ,2020-04-15T07:58:16.518Z,y,23,Karnataka,male
+India,bEzlLV5ZV3fSBFl6JLs1e0t3GEG2,True,Chennai,y,healthy,2020-04-14T14:51:23.984Z,45,Tamil Nadu,male
+India,bGAOAliULjMQIFSvoMFuNCedl582,Bengaluru,y,healthy,2020-04-14T12:22:42.520Z,33,Karnataka,male
+India,cAqSJ74dT8S95pUV3nj98Pp12cp1,Bangalore,y,healthy,2020-04-13T16:00:49.870Z,59,Karnataka,male
+India,cog0Kv05iPM162wFPDfBEnEqpzJ3,Anandapur/Keendujhar,y,no_resp_illness_exposed,2020-04-13T19:17:35.976Z,28,Odisha,female
+India,cxchnGnCHJQ3Tjqn5faj2Sfqa0e2,True,Bangalore,y,healthy,2020-04-15T01:00:20.810Z,47,Karnataka,male
+India,dosEoi5rKRVXDZzENH1QpxCfPWu1,True,Bengaluru,y,healthy,2020-04-14T09:21:32.259Z,48,Karnataka,male
+India,dxKWK5iTjWdjch9zRGCnc7R0eeq2,Bengaluru,y,healthy,2020-04-14T10:10:53.336Z,56,Karnataka,male
+India,eu2Hm19FIUhs68KsWGAlCQ4WVc43,Bengaluru,y,healthy,2020-04-15T07:19:11.888Z,21,Karnataka,female
+India,evcMtXUBFWS6bXPYqv7BXVfqFIc2,Allahabad,y,healthy,2020-04-15T07:07:26.351Z,23,Uttar Pradesh,female
+India,f9g4olEAspen4dJakQJsI2EME032,Nagarabhavi Bangalore,y,healthy,2020-04-14T11:06:22.300Z,64,Karnataka,male
+Iran,fMi5uNWoboXWzfIDskyLCl8HHxH3,True,Tehran,n,healthy,2020-04-14T18:05:06.793Z,39,Tehran,male
+India,g0gdNMhQIbUlZRTod20TdtqafgJ3,y,healthy,2020-04-15T07:11:14.821Z,25,Telangana,male
+India,g1nDdvDWgDhgbVDyfl6NyFIfPAp2,Bengaluru,True,y,healthy,2020-04-15T04:16:45.212Z,40,Karnataka,male
+India,giXzRAAuoRRAg7xQ9Y56DX0FVDr1,healthy,Hyderabad,2020-04-15T08:13:00.877Z,y,55,Telangana,male
+India,gyzIhontEeY2zHHaiy2zjZot6hg1,True,Bangalore ,y,healthy,2020-04-14T19:16:56.215Z,43,Karnataka,male
+India,h0XfL2JtCLb7hgupJ7lLQJ0fzgF2,healthy,True,Mumbai,2020-04-15T08:47:09.021Z,y,27,Maharashtra,male
+United States,hkbGDo0CbGUStRblqwQj7KJc5lk2,healthy,Allegheny,2020-04-14T12:37:16.283Z,y,24,Pennsylvania,female
+Canada,j0bgqdkBSRaRrpBmJLa1MkkKg593,healthy,Mississauga,2020-04-14T02:55:17.326Z,y,31,Ontario,female
+India,j0q8isyOE2akw5RDUOV9whSwNDW2,Chennai,y,healthy,2020-04-14T13:28:14.886Z,34,Tamil Nadu,male
+India,jFtviHrZKLUXECg7rQPRt16g0zv1,Dwarka,y,healthy,2020-04-14T10:40:54.415Z,57,Delhi,male
+India,jRlVIgE9hofnOP2Lo8He6ebcecz1,Chennai,y,healthy,2020-04-13T16:23:47.277Z,23,Tamil Nadu,male
+United States,jSb7SyucSmTHhzs3qQoBExRMQZ02,y,healthy,2020-04-13T15:49:57.741Z,33,Massachusetts,female
+India,jaNAcGlkQvUYEcRFXm5gNwnOOn93,Bangalore,y,healthy,2020-04-15T04:10:52.023Z,58,Karnataka,female
+India,jsYI5hPpF3XJ6rW8EQjUTCfPNZ62,True,Visakhapatnam,y,no_resp_illness_exposed,2020-04-13T15:35:13.388Z,32,Andhra Pradesh,male
+India,kkyAPrhvZKNSbFUYBfQ0Ne277D62,True,Hyderabad ,y,no_resp_illness_exposed,2020-04-15T08:20:18.608Z,25,Telangana,male
+United States,l57TNYomN4Z56eIotPFe6hN1Vgm2,True,Amherst,y,healthy,2020-04-14T13:33:21.637Z,26,Massachusetts,male
+India,l6OFgjiE4MT6I6wfoYHk208nEaJ3,Bangalore,y,resp_illness_not_identified,2020-04-15T02:28:41.973Z,45,Karnataka,male
+India,mX9OLV39QwhCicc7VLqQyniNdU63,Hyderabad,y,healthy,2020-04-13T14:55:50.320Z,32,Andhra Pradesh,male
+India,meYzBgsbbHT9rLhVNx4SYzjRYjK2,healthy,Ghaziabad,2020-04-14T10:35:47.031Z,y,32,Uttar Pradesh,male
+India,nkSUWnQgO0Tn7flFkVp7CrdsatW2,Solan,y,healthy,2020-04-15T07:24:13.713Z,29,Himachal Pradesh,male
+India,oakTHXyve7PxMjMsDDb7VNnM0Ie2,Durgapur/ Paschim Bardhaman,y,no_resp_illness_exposed,2020-04-15T05:43:03.200Z,22,West Bengal,female
+India,pbXQf83tO4bPFQ0UZjs9HDE7i7r1,Rajnandgaon,y,healthy,2020-04-13T17:14:13.416Z,33,Chhattisgarh,female
+India,qje01PDBImMG8VBE3hnyw4GbJ7W2,True,Bangalore,y,True,healthy,2020-04-15T07:17:12.603Z,39,Karnataka,male
+India,rJtkSijv5ROjzB6LHN1XCAfe9752,Anantapur,y,healthy,2020-04-15T08:06:57.094Z,26,Andhra Pradesh,male
+India,rSDhZrvtPFhvXnAPUJnYoPBN0mD3,Guntur,y,resp_illness_not_identified,2020-04-15T06:57:56.982Z,21,Andhra Pradesh,male
+India,rjI1qyc5W6RkajiRcmde0VISAIF3,healthy,Kolkata,2020-04-15T07:33:48.353Z,y,26,West Bengal,male
+India,sSJoDuR1etTsr85E8wRfxIvfiCf1,healthy,Hyderabad,2020-04-15T07:48:19.364Z,y,43,Telangana,female
+India,t0wrpS8L5WamJS9NhyjeHAqhaVv1,True,Hebbal,y,healthy,2020-04-15T06:24:29.772Z,51,Karnataka,male
+India,u1G8LRJRwyUWNf8J9McgKGyfQJ33,Coimbatore,y,healthy,2020-04-14T11:36:41.294Z,56,Tamil Nadu,male
+India,vBRMIg1ACdeSAFmcWnII6ZkDefV2,Ernakulam,y,healthy,2020-04-14T16:15:04.459Z,42,Kerala,male
+India,vdaDi7xUoVepm15b98az1F6RN1e2,Bokaro,y,healthy,2020-04-15T06:34:49.505Z,24,Jharkhand,female
+India,vtVLtX1PGdX2b2fhF18Fk6DULZ03,Bangalore,y,True,no_resp_illness_exposed,2020-04-14T18:15:46.812Z,32,Karnataka,female
+India,vw3Nw1Gmt3WA78SHAzJwelNRduv1,Kurnool,y,healthy,2020-04-13T15:44:54.911Z,24,Andhra Pradesh,male
+India,w51QbggHBvVnSSNG5tsEgScigyF3,True,Janakpuri,y,True,healthy,2020-04-15T00:36:42.843Z,37,Delhi,male
+India,w8GzYkRUeuVtuONdQbOrrFefVco1,Vidyaranyapura ,y,healthy,2020-04-14T17:19:15.015Z,32,Karnataka,male
+India,wq5WR6X7egP0MydXWR8nqSpHqq12,Ahmedabad,y,healthy,2020-04-15T07:46:09.209Z,25,Gujarat,male
+India,wwedtVmUE2dHLXmCHaIXW4uGRmq2,Coimbatore,y,healthy,2020-04-14T12:37:28.190Z,28,Tamil Nadu,male
+India,xO54amKmQMQwbMoSbmADa6Wa2kK2,Pudukkottai,y,healthy,2020-04-14T18:37:06.746Z,21,Tamil Nadu,male
+India,y71bldtMZsh4Qemwyr86rXevPcH2,True,Guntur,y,resp_illness_not_identified,2020-04-14T08:46:04.415Z,26,Andhra Pradesh,male
+Ireland,yHn6UxlPk8RvWZ3X5jrTa89CPwG2,healthy,2020-04-15T08:40:02.449Z,y,25,Cork,male
+India,zAdXj9IixzaM6KUwFYIhXbNJnJ42,Bangalore,y,healthy,2020-04-14T02:26:28.287Z,21,Karnataka,male
+India,zNNcSmfHhTbjLm5NcVmrOAf5C2j2,True,n,True,healthy,2020-04-13T14:57:52.581Z,53,Kerala,female
