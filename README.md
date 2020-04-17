@@ -14,6 +14,6 @@ Voice samples collected include breathing sounds (fast and slow), cough sounds (
 To download the data, you can merge the split tar files using the command below to obtain a single tar file and then untar it.
 
 `cat *.tar.gz.* > file_name.tar.gz `
-`tar -xvzf file_name.tar.gz `
+`tar -xvzf file_name.tar.gz`
 
 Each folder also has a CSV file which contains metadata of each sample.
