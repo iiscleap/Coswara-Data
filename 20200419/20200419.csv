@@ -1,0 +1,19 @@
+id,date,l_c,a,ep,g,l_s,l_l,covid_status,fever,ht,asthma
+Y5YzktJpmdMp3h3YOTEWcxE41F83,2020-04-18T14:46:31.500Z,India,25,y,male,Tamil Nadu,Thoothukudi ,healthy,,,
+vxQXoOBf9Oa0zTwHaKRyHqiUQTB2,2020-04-19T08:01:01.734Z,India,43,y,male,Karnataka,bengaluru,healthy,,,
+U5XZPZXjrqNPn4Eo3T2Ti46VNVJ2,2020-04-18T14:28:48.074Z,India,22,y,female,Karnataka,,resp_illness_not_identified,,,
+Qriv4y0rwfWRZDatFMOj9zdXeB43,2020-04-19T12:27:10.627Z,China,45,n,female,Anhui Province,ccc,healthy,True,,
+RQqyn5Ur0gcPPYhafDG9DDfIgVh2,2020-04-19T06:02:31.992Z,India,35,y,male,Karnataka,mysore,healthy,,,
+XFX3DxpzWlTsqde0wmliVzvRXnf1,2020-04-19T02:16:17.828Z,India,34,y,male,Kerala,Kollam,healthy,,,
+lS9YdIeCTmfaDKr4AgtF1hjdlR23,2020-04-18T14:12:50.686Z,India,30,y,male,Karnataka,Bangalore,healthy,,,
+tkr2LeHuJyNXW3uM4NUZBmp1qIb2,2020-04-18T12:49:29.095Z,India,34,y,male,Karnataka,Mathikere,healthy,,True,
+HtCYru78WihN83VInC0etddLCv62,2020-04-18T23:12:48.263Z,India,23,y,male,Gujarat,Surat,healthy,,,
+gfAVpM1IV5RhiO6CAiOjjn1AHVG2,2020-04-18T13:14:23.748Z,Australia,43,y,male,New South Wales,Artarmon ,healthy,,,
+2jFheyh8bLO5peh0HPYGYjH5N9x2,2020-04-19T07:29:26.426Z,India,27,y,male,Telangana,Hyderabad ,healthy,,,
+XlPcBLOUHdNZwOeNJvVy1KfjQDf2,2020-04-18T23:48:17.225Z,United States,34,y,male,Washington,,healthy,,,
+UbRWBwc42vQH5WKiUUP89RvPlA92,2020-04-18T13:13:39.625Z,India,25,y,male,Uttar Pradesh,Varanasi,healthy,,,
+rsVzlx8x0INOnHAt8Xu6jrxeGqG2,2020-04-18T13:41:49.752Z,India,22,y,male,Telangana,Hyderabad,healthy,,,True
+OnSOmvzzE2WLcwfrSyNbh0B89n72,2020-04-18T19:09:06.642Z,India,40,y,male,Karnataka,"Kasavanahalli, Bangalore",resp_illness_not_identified,,True,
+TXlvBOBGo0ReXW3AHhF5acgJ5Hm2,2020-04-19T05:00:15.556Z,India,34,y,female,Odisha,Mayurbhanj,resp_illness_not_identified,,,True
+zir8PPnBwfOaT05GrKj9nK4opfk1,2020-04-18T14:14:30.471Z,India,27,y,female,Delhi,South west,healthy,True,,
+MEEGIoNSX4exg4oIL3Q9MdysPJq1,2020-04-18T13:06:18.750Z,India,22,y,male,Karnataka,Bangalore,healthy,,,
