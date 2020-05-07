@@ -1,0 +1,15 @@
+a,covid_status,dT,ep,fV,g,l_c,l_l,l_s,rU,cold,cough,diabetes,smoker,asthma,cld,fever,ht,ihd,loss_of_smell,pneumonia
+33,healthy,web,y,2,male,India,bengaluru,Karnataka,n,,,,,,,,,,,
+43,healthy,web,y,2,male,India,Chennai,Tamil Nadu,n,,,,,,,,,,,
+47,no_resp_illness_exposed,web,y,2,male,United States,Winston-Salem ,North Carolina,n,True,,,,,,,,,,
+22,resp_illness_not_identified,web,y,2,male,India,Sonbhadra,Uttar Pradesh,n,,True,,,,,,,,,
+14,healthy,web,y,2,male,India,North 24 Paraganas,West Bengal,n,,,,,,,,,,,
+22,healthy,web,y,2,female,India,Sonbhadra,Uttar Pradesh,n,,,,,,,,,,,
+57,healthy,web,y,2,male,India,Chennai,Tamil Nadu,n,,,True,,,,,,,,
+18,resp_illness_not_identified,web,y,2,male,India,,Delhi,n,True,,,,,,,,,,
+26,healthy,web,y,2,male,India,Bangalore ,Karnataka,n,,,,True,,,,,,,
+34,healthy,web,y,2,female,India,Ahmedabad,Gujarat,n,,,,,,,,,,,
+32,resp_illness_not_identified,web,y,2,female,India,Pune,Maharashtra,n,,,,,True,,,,,,
+40,positive_mild,web,y,2,male,India,,Assam,n,True,True,True,True,True,True,True,True,True,True,True
+35,no_resp_illness_exposed,web,y,2,male,India,Vadodara,Gujarat,n,,,,,,,,,,,
+21,healthy,web,y,2,female,India,Sonbhadra ,Uttar Pradesh,n,,,,,,,,,,,
