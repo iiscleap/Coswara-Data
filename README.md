@@ -8,6 +8,7 @@ Project Coswara by Indian Institute of Science (IISc) Bangalore is an attempt to
 
 Voice samples collected include breathing sounds (fast and slow), cough sounds (deep and shallow), phonation of sustained vowels (/a/ as in made, /i/,/o/), and counting numbers at slow and fast pace. Metadata information collected includes the participant's age, gender, location (country, state/ province), current health status (healthy/ exposed/ cured/ infected) and the presence of comorbidities (pre-existing medical conditions). </p>
 
+- 2020-04-13 contains 76 samples.
 - 2020-04-15 contains 161 samples. 
 - 2020-04-16 contains 197 samples.
 - 2020-04-17 contains 168 samples.
