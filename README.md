@@ -27,7 +27,7 @@ Voice samples collected include breathing sounds (fast and slow), cough sounds (
 - 2020-07-20 contains 21 samples.
 - 2020-08-03 contains 29 samples.
 - 2020-08-14 contains 83 samples.
-- 2020-08-20 contains 39 samples.
+- 2020-08-20 contains 47 samples.
 - 2020-08-24 contains 19 samples.
 - 2020-09-01 contains 24 samples.
 
