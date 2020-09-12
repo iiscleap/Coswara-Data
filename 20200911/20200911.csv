@@ -1,0 +1,17 @@
+id,a,covid_status,dT,ep,fV,g,l_c,l_l,l_s,rU,um,bd,cold,cough,fever,st
+TULtUREj7OY9m91BqV1hqSeuwYf2,30,no_resp_illness_exposed,web,y,2,male,India,mumbai,Maharashtra,n,y,,,,,
+RY495l51qRPkLQxPMtN65Fkzcbw1,24,healthy,web,y,2,male,India,Dakshin Kannada,Karnataka,n,y,,,,,
+VXCvsGinvzPFVkLNlvJFw7z9G8j1,25,healthy,web,y,2,male,India,Dakshin Kannada,Karnataka,n,n,,,,,
+BZHvK60v1LY9cBfLvYkBkJxdfNz2,70,positive_mild,web,y,2,male,India,,Karnataka,n,y,True,True,True,True,True
+2vH4QMrMaMMm5oZYScY0b36Z8MC3,20,positive_mild,web,y,2,male,India,,Karnataka,n,n,,True,True,,
+ql3kCRgabMZdkQabRLQNwJGLpwe2,25,healthy,web,y,2,male,India,Dakshin Kannada,Karnataka,n,y,,,,,
+G8f3XmmcaXb2ZZ2ov4Z5r2vOLaK2,24,healthy,web,y,2,male,India,Dakshin Kannada,Karnataka,n,y,,,,,
+uKNcZUbxcoVEtx2loiRvJEAhPEj1,23,healthy,web,y,2,male,India,Dakshin Kannada,Karnataka,n,n,,,,,
+4qLi2eWkYGasKhmmPPiyFAGUqBr2,40,positive_mild,web,n,2,male,India,,Karnataka,n,n,True,,,True,
+sCqJBGNT5AhdqxZD0AuJPbbhJ4k2,18,recovered_full,web,y,2,male,India,,Karnataka,n,n,,,,,
+CdU4pgCdFcZxtDHTpLUn1mO9J3o2,21,healthy,web,y,2,male,India,Udupi,Karnataka,n,n,,,,,
+0RHdUsu2qFMmG4dhpJd1NqM5ZTC2,22,healthy,web,y,2,female,India,Thane,Maharashtra,n,y,,,,True,
+vQA8WvDgUxM5wRLMuY92tqJCZgT2,27,positive_mild,web,y,2,male,India,,Karnataka,n,n,True,True,True,True,
+BDygu23lyUbBq2NlqfzRxGoMm9B2,28,positive_mild,web,y,2,male,India,,Karnataka,n,n,,True,,,
+XFlqN1sDBKNXyuORhVagkJnr5V33,50,positive_mild,web,y,2,female,India,Bangalore ,Karnataka,n,n,,,True,True,
+yI90OQafcNSI5Hcgsil9iEifx1R2,24,healthy,web,y,2,male,India,Dakshin Kannada,Karnataka,n,n,,,,,
