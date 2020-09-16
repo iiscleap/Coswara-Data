@@ -16,13 +16,13 @@ Voice samples collected include breathing sounds (fast and slow), cough sounds (
 - 2020-04-17 contains 168 samples.
 - 2020-04-18 contains 46 samples. 
 - 2020-04-19 contains 32 samples.
-- 2020-04-24 contains 29 samples.
+- 2020-04-24 contains 28 samples.
 - 2020-04-30 contains 23 samples.
 - 2020-05-02 contains 155 samples.
 - 2020-05-04 contains 81 samples.
 - 2020-05-05 contains 14 samples.
 - 2020-05-25 contains 54 samples.
-- 2020-06-04 contains 22 samples.
+- 2020-06-04 contains 20 samples.
 - 2020-07-07 contains 42 samples.
 - 2020-07-20 contains 21 samples.
 - 2020-08-03 contains 29 samples.
