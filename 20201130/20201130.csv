@@ -1,0 +1,18 @@
+id,a,covid_status,dT,ep,fV,g,l_c,l_l,l_s,rU,test_status,um,cold,cough,ht,loss_of_smell,smoker,fever,ftg,mp,st
+i0reS77d27TfHnKANrEGHVZXkLw2,39,healthy,web,y,2,male,India,Bangalore,Karnataka,n,na,n,,,,,,,,,
+N1orpaThfMaEneE3dbfn3DZ604Z2,22,no_resp_illness_exposed,web,y,2,male,India,kartanpur,Arunachal Pradesh,n,na,n,,,,,,,,,
+aC09qmwnQ6MboJlAAdxf0DGr9Ay2,87,healthy,web,y,2,female,India,non,Arunachal Pradesh,n,na,n,True,,,,,,,,
+YfM42MQoVvT5V7HG9JstuUqBRDf1,23,recovered_full,web,y,2,male,India,Kanchipuram,Tamil Nadu,n,n,n,,,,,,,,,
+6GBpxEuVACapBiyIgwQOAj1zuuy1,18,healthy,web,y,2,male,India,Bangalore,Karnataka,n,na,n,,True,,,,,,,
+fWUMPPgD78VZinzLLLwqbyTysJa2,39,positive_mild,web,y,2,female,India,Bengaluru,Karnataka,n,p,y,True,,True,,,,,,
+K3kwl6reCLNR8G0Al3zNQVztRri2,37,healthy,web,y,2,female,Hungary,3,Budapest,n,na,n,,,,,,,,,
+FA82s56D4CP2QAkUpv7Zlbz95NW2,47,healthy,web,y,2,male,India,Kannur,Kerala,n,n,n,,,,,,,,,
+ttOFkQd0vpf4bWBwqQsz2Ckw0p22,37,no_resp_illness_exposed,web,y,2,male,Hungary,Sárrétudvari,Hajdu-Bihar,n,na,n,,,,True,True,,,,
+bEfNHdklxlOA7o1kO5GF2P8ButS2,43,resp_illness_not_identified,web,y,2,female,India,"HSR layout, bengaluru",Karnataka,n,n,n,True,True,,True,,True,True,True,True
+AUwVqLrZHwO7uyyadbaMDd4XyxC3,28,resp_illness_not_identified,web,n,2,male,India,Sarangarh,Chhattisgarh,n,n,n,,True,,,,,,,
+NakKwA95snbM0W6Lk1nV0ptOmOA2,22,healthy,web,y,2,male,India,Krishna,Andhra Pradesh,n,na,n,,,,,,,,,
+9V5mCzwbSgcrw64VLWR2DZf4bcx1,30,healthy,web,y,2,male,Israel,,Hadaron,n,na,n,,,,,,,,,
+HATVkqrdXhV2eIiwy5iIP7V0bjo2,23,positive_mild,web,y,2,male,India,Bengaluru,Karnataka,n,p,n,,,,,,True,,,True
+UWYfIxsL1LbICfxxW9dzfYDAgrD2,21,healthy,web,y,2,male,Turkey,Luleburgaz,Kirklareli,n,na,n,,,,,,,,,
+QHDZOE4ryxMbsGpXU7Dad9egAts2,30,healthy,web,y,2,male,United States,,New York,n,n,y,,,,,,,,,
+IWZidWG1Y3aIbwBNfyR5P9rt0O82,25,no_resp_illness_exposed,web,y,2,male,India,kolkata,West Bengal,n,na,n,,True,,,True,,,,
