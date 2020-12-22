@@ -35,6 +35,7 @@ Voice samples collected include breathing sounds (fast and slow), cough sounds (
 - 2020-10-12 contains 18 samples.
 - 2020-10-31 contains 29 samples.
 - 2020-11-30 contains 17 samples.
+- 2020-12-21 contains 27 samples.
 
 To download the data, you can merge the split tar files using the command below to obtain a single tar file and then untar it.
 
