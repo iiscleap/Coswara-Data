@@ -44,3 +44,5 @@ To download the data, you can merge the split tar files using the command below 
 `tar -xvzf file_name.tar.gz`
 
 Each folder also has a CSV file which contains metadata of each sample.
+
+The file `csv_labels_legend.json` contains information about the columns present in `combined_data.csv` 
