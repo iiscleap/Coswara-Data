@@ -7,6 +7,8 @@ Project Coswara by Indian Institute of Science (IISc) Bangalore is an attempt to
 #### This is the data repository for Project Coswara (https://coswara.iisc.ac.in/). To view more information about the database such as distributions of gender, age, etc. click [here](https://iiscleap.github.io/coswara-blog/coswara/2020/11/23/visualize_coswara_data_metadata.html).
 <p>Each folder contains metadata and recordings corresponding to a person. The audio recordings are in wav format (44.1KHz).
 
+To download and extract the data, you can run the script `extract_data.py`
+
 Voice samples collected include breathing sounds (fast and slow), cough sounds (deep and shallow), phonation of sustained vowels (/a/ as in made, /i/,/o/), and counting numbers at slow and fast pace. Metadata information collected includes the participant's age, gender, location (country, state/ province), current health status (healthy/ exposed/ cured/ infected) and the presence of comorbidities (pre-existing medical conditions). </p>
 
 - 2020-04-13 contains 76 samples.
@@ -37,11 +39,6 @@ Voice samples collected include breathing sounds (fast and slow), cough sounds (
 - 2020-11-30 contains 17 samples.
 - 2020-12-21 contains 27 samples.
 
-To download the data, you can merge the split tar files using the command below to obtain a single tar file and then untar it.
-
-`cat *.tar.gz.* > file_name.tar.gz `
-
-`tar -xvzf file_name.tar.gz`
 
 Each folder also has a CSV file which contains metadata of each sample.
 
