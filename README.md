@@ -5,7 +5,7 @@ Project Coswara by Indian Institute of Science (IISc) Bangalore is an attempt to
 #### NOTE: This repository contains the raw audio data received at https://coswara.iisc.ac.in/ . The annotation process of this is ongoing (https://github.com/iiscleap/Coswara-Exp) and would be delayed compared to the uploaded data here.
 
 #### This is the data repository for Project Coswara (https://coswara.iisc.ac.in/). To view more information about the database such as distributions of gender, age, etc. click [here](https://iiscleap.github.io/coswara-blog/coswara/2020/11/23/visualize_coswara_data_metadata.html).
-<p>Each folder contains metadata and recordings corresponding to a person. The audio recordings are in wav format (44.1KHz).
+<p>Each folder contains metadata and recordings corresponding to a person.
 
 To download and extract the data, you can run the script `extract_data.py`
 
@@ -38,7 +38,7 @@ Voice samples collected include breathing sounds (fast and slow), cough sounds (
 - 2020-10-31 contains 29 samples.
 - 2020-11-30 contains 17 samples.
 - 2020-12-21 contains 27 samples.
-
+- 2020-02-06 contains 18 samples.
 
 Each folder also has a CSV file which contains metadata of each sample.
 
