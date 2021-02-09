@@ -28,8 +28,5 @@ for d in dirs_to_extract:
     p = subprocess.Popen('cat {}/{}/*.tar.gz.* |tar -xvz -C {}/'.format(coswara_data_dir, d, extracted_data_dir), shell=True)
     p.wait()
 
-<<<<<<< HEAD
+
 print("Extraction process complete!")
-=======
-print("Extraction process complete!")
->>>>>>> d8bab94757401f4f1564d852b39bb38656255462
