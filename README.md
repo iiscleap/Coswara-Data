@@ -42,6 +42,7 @@ Voice samples collected include breathing sounds (fast and slow), cough sounds (
 - 2021-04-06 contains 66 samples.
 - 2021-04-19 contains 35 samples.
 - 2021-04-26 contains 41 samples.
+- 2021-05-07 contains 54 samples.
 
 Each folder also has a CSV file which contains metadata of each sample.
 
