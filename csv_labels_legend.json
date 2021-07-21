@@ -2,6 +2,7 @@
     "id":"User ID",
     "a":"Age (number)",
     "covid_status":"Health status (e.g. : positive_mild, healthy,etc.)",
+    "record_date": "Date when the user recorded and submitted the samples",
     "ep":"Proficient in English (y/n)",
     "g":"Gender (male/female/other)" ,
     "l_c":"Country",
@@ -25,5 +26,13 @@
     "mp":"Muscle Pain (True/False)",
     "loss_of_smell":"Loss of Smell & Taste (True/False)",
     "cld":"Chronic Lung Disease (True/False)",
-    "pneumonia":"Pneumonia (True/False)"
+    "pneumonia":"Pneumonia (True/False)",
+    "ctScan":"CT-Scan (y/n if the user has taken a test)",
+    "testType":"Type of test (RAT/RT-PCR)",
+    "test_date":"Date of COVID Test (if taken)",
+    "vacc":"Vaccination status (y->both doses, p->one dose(partially vaccinated), n->no doses)",
+    "ctDate":"Date of CT-Scan",
+    "ctScore":"CT-Score",
+    "others_resp":"Respiratory illnesses other than the listed ones (True/False)",
+    "others_preexist":"Pre-existing conditions other than the listed ones (True/False)"
 }
