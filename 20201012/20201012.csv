@@ -1,19 +1,19 @@
-id,a,covid_status,dT,ep,fV,g,l_c,l_l,l_s,rU,um,cold,cough,fever,st,bd,ftg,mp,loss_of_smell
-VFeVSfoV7pM9kzFjHMA0R4rs3XB2,36,positive_asymp,web,y,2,female,India,Bangalore,Karnataka,n,n,,,,,,,,
-dvRr97gwv7Y34YqaccErnWcYRY53,25,positive_mild,web,n,2,male,India,Mangalore ,Karnataka,y,y,True,True,True,True,,,,
-w7pdOIUnHPRfYLXVVRtIRsOjGnr2,65,positive_moderate,web,y,2,male,India,Manipal ,Karnataka,y,y,,True,True,True,True,True,True,
-Qt3Wy5zDjYfrcZtylWX0sh5niMa2,26,no_resp_illness_exposed,web,y,2,male,India,Pune,Maharashtra,n,n,,,,,,,,
-WyCgdIfGzxXRPeimIoqiPVysAHB2,55,healthy,web,n,2,female,India,Mangalore,Karnataka,y,n,,,,,,,True,True
-dmZsPx4whFbTWD54PHQifpUZ60i2,27,no_resp_illness_exposed,web,y,2,male,India,New Delhi,Delhi,n,n,True,,,True,,True,,
-zPFIJ3JDo7P5qIIdKvELq76kYi02,28,healthy,web,y,2,male,United States,Arbutus,Maryland,n,n,,,,,,,,
-cpkq5jRCUDOvtB7vROcz6LuOAzr2,31,healthy,web,y,2,male,India,Jigani,Karnataka,n,n,,,,,,,,
-M43FaHpw1ScIi97eG6LBx2fBaJ92,33,positive_asymp,web,y,2,female,India,Bangalore,Karnataka,n,n,,,,,,,,True
-L9QbDvX4UtMhFOsYuh2aamY3VK23,17,positive_mild,web,y,2,male,India,Paschim Bardhhaman,West Bengal,y,n,True,True,True,,,,True,
-7J57fRRIEENoMhm7xRL7HNxh7Xy2,23,healthy,web,y,2,female,India,Pune,Maharashtra,n,n,,,,,,,,
-xVC8kMuWNme6VSFOvNVT0j21Qw12,22,positive_mild,web,y,2,male,India,Udupi,Karnataka,n,n,,,,,,,,
-mmg71cttF0ez7wdeTZeCVFw7GV32,22,positive_mild,web,y,2,male,India,Udupi,Karnataka,n,y,,,,,,,,True
-NRG2CtRi4KdGF8XvpvD5X0DJo2h1,23,healthy,web,y,2,female,India,w,Andhra Pradesh,n,y,,,,,,,,
-R9EJURFbJjRNEl9lmQZw1gfs08J3,34,recovered_full,web,n,2,female,India,Dakshina Kannada ,Karnataka,n,n,,,,,,,,
-HNQHvssRu1QD9oJKikpEcT8ENjX2,35,healthy,web,y,2,female,India,Bangalore,Karnataka,n,n,,,,,,,,
-7arBtLdzGeW8oCN0DXhI6dqqUdP2,17,healthy,web,y,2,male,India,,Karnataka,n,n,True,,True,,,,,
-joORHxc0iCTwgP7Uh5SM5N7rnnf2,23,positive_moderate,web,y,2,male,India,Mangalore,Karnataka,n,n,True,True,True,True,True,,,True
+id,a,covid_status,record_date,dT,ep,fV,g,l_c,l_l,l_s,rU,um,cold,cough,fever,st,bd,ftg,mp,loss_of_smell
+VFeVSfoV7pM9kzFjHMA0R4rs3XB2,36,positive_asymp,2020-10-05,web,y,2,female,India,Bangalore,Karnataka,n,n,,,,,,,,
+dvRr97gwv7Y34YqaccErnWcYRY53,25,positive_mild,2020-10-02,web,n,2,male,India,Mangalore ,Karnataka,y,y,True,True,True,True,,,,
+w7pdOIUnHPRfYLXVVRtIRsOjGnr2,65,positive_moderate,2020-10-02,web,y,2,male,India,Manipal ,Karnataka,y,y,,True,True,True,True,True,True,
+Qt3Wy5zDjYfrcZtylWX0sh5niMa2,26,no_resp_illness_exposed,2020-10-02,web,y,2,male,India,Pune,Maharashtra,n,n,,,,,,,,
+WyCgdIfGzxXRPeimIoqiPVysAHB2,55,healthy,2020-10-02,web,n,2,female,India,Mangalore,Karnataka,y,n,,,,,,,True,True
+dmZsPx4whFbTWD54PHQifpUZ60i2,27,no_resp_illness_exposed,2020-10-01,web,y,2,male,India,New Delhi,Delhi,n,n,True,,,True,,True,,
+zPFIJ3JDo7P5qIIdKvELq76kYi02,28,healthy,2020-10-01,web,y,2,male,United States,Arbutus,Maryland,n,n,,,,,,,,
+cpkq5jRCUDOvtB7vROcz6LuOAzr2,31,healthy,2020-10-07,web,y,2,male,India,Jigani,Karnataka,n,n,,,,,,,,
+M43FaHpw1ScIi97eG6LBx2fBaJ92,33,positive_asymp,2020-10-05,web,y,2,female,India,Bangalore,Karnataka,n,n,,,,,,,,True
+L9QbDvX4UtMhFOsYuh2aamY3VK23,17,positive_mild,2020-10-10,web,y,2,male,India,Paschim Bardhhaman,West Bengal,y,n,True,True,True,,,,True,
+7J57fRRIEENoMhm7xRL7HNxh7Xy2,23,healthy,2020-10-08,web,y,2,female,India,Pune,Maharashtra,n,n,,,,,,,,
+xVC8kMuWNme6VSFOvNVT0j21Qw12,22,positive_mild,2020-10-10,web,y,2,male,India,Udupi,Karnataka,n,n,,,,,,,,
+mmg71cttF0ez7wdeTZeCVFw7GV32,22,positive_mild,2020-10-10,web,y,2,male,India,Udupi,Karnataka,n,y,,,,,,,,True
+NRG2CtRi4KdGF8XvpvD5X0DJo2h1,23,healthy,2020-10-01,web,y,2,female,India,w,Andhra Pradesh,n,y,,,,,,,,
+R9EJURFbJjRNEl9lmQZw1gfs08J3,34,recovered_full,2020-10-02,web,n,2,female,India,Dakshina Kannada ,Karnataka,n,n,,,,,,,,
+HNQHvssRu1QD9oJKikpEcT8ENjX2,35,healthy,2020-10-08,web,y,2,female,India,Bangalore,Karnataka,n,n,,,,,,,,
+7arBtLdzGeW8oCN0DXhI6dqqUdP2,17,healthy,2020-10-06,web,y,2,male,India,,Karnataka,n,n,True,,True,,,,,
+joORHxc0iCTwgP7Uh5SM5N7rnnf2,23,positive_moderate,2020-10-10,web,y,2,male,India,Mangalore,Karnataka,n,n,True,True,True,True,True,,,True
