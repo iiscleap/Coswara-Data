@@ -52,6 +52,7 @@ Voice samples collected include breathing sounds (fast and slow), cough sounds (
 - 2021-07-14 contains 52 samples.
 - 2021-08-16 contains 82 samples.
 - 2021-08-30 contains 64 samples. 
+- 2021-09-14 contains 37 samples.
 Each folder also has a CSV file which contains metadata of each sample.
 
 The file `csv_labels_legend.json` contains information about the columns present in `combined_data.csv` 

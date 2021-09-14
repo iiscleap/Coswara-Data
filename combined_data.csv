@@ -1661,6 +1661,43 @@ BoCrMaxD7DVdo0nXNl14zk8ycR52,36,recovered_full,2020-09-01,y,female,India,Dakshin
 S0ZhYGoCVfXWMHzPGZ41PvHYiw12,39,positive_mild,2020-09-01,n,male,India,,Karnataka,n,,True,,,True,,,,,True,,,,,,n,,True,,True,,,,,,
 xrVSOYVRn2RTVm7arbPJztWNCoI3,33,no_resp_illness_exposed,2020-08-28,y,male,India,,Kerala,n,,True,,,,,,,,,,,,,,n,,,,,True,,,,,
 cf4RgKotFbYPn2HsLdxHyiChY3I2,24,positive_mild,2020-08-27,n,male,India,Mangaluru,Karnataka,n,,True,,,True,,,,,True,,,,,,n,,,,,,,,,,
+VjPz8KLE45Nv4ISZTLInoIHoj112,64,resp_illness_not_identified,2021-08-31,y,male,India,Tiruppur,Tamil Nadu,n,y,,True,,,,n,,,,,True,rtpcr,2021-08-10,n,y,p,True,True,True,,,,True,,True
+9FTmYAaPkIhJ5gUT8xAvE3l9QkD2,19,recovered_full,2021-09-11,y,male,India,Coimbatore,Tamil Nadu,n,n,True,,,,,n,,,,,,rtpcr,2021-08-15,p,y,p,,,,,,True,True,,
+xCfjFTSrpBTvVxpcRoM3SdgIGCA3,24,recovered_full,2021-09-07,y,male,India,Coimbatore,Tamil Nadu,n,n,True,,,True,,n,,,,,,rtpcr,2021-03-11,p,y,p,,,,,,,,,
+v8cNN5eg09b4auxFmOqPrNiTZBu1,24,healthy,2021-09-07,y,female,India,Dharmapuri,Tamil Nadu,n,n,,,,,,n,,,,,,rtpcr,2021-08-20,n,y,p,,,,,,,,,
+hwRstflVyufj04ZBCVW9jXrInlr1,37,resp_illness_not_identified,2021-08-31,y,female,India,Erode,Tamil Nadu,n,n,,,,True,,n,,,,,,rtpcr,2021-05-31,n,y,p,True,True,,,,True,True,,
+eQAVMaOMc6g58D3qXfe3Eec20ic2,19,recovered_full,2021-09-13,y,female,India,Coimbatore,Tamil Nadu,n,n,,,,,,n,,,,,,rtpcr,2021-05-07,p,y,p,,,,,,,True,,
+iNYVylAQoBXKKHXcHncHj9jc8Wt2,65,resp_illness_not_identified,2021-09-06,n,male,India,Coimbatore,Tamil Nadu,n,n,,,,,,n,,,,,,,,na,y,n,,True,True,,,,True,,
+aTSU2ShIvnMzIsWQo2OoiyLxIZl1,23,healthy,2021-09-07,y,female,India,Coimbatore,Tamil Nadu,n,n,,,,,,n,,,,,,rtpcr,2021-07-13,n,y,p,,,,,,,,,
+6KdBcdVOJ6g5etjcagkhx8TUZer2,19,resp_illness_not_identified,2021-09-11,y,male,India,Coimbatore,Tamil Nadu,n,n,,,,,,n,,,,,,rtpcr,2021-08-17,n,y,y,,True,,True,,,True,,
+FtDju4lrx4PqJCMCo9zctj7IFnV2,19,healthy,2021-09-13,y,female,India,COIMBATORE,Tamil Nadu,n,n,,,,,,n,,,,,,rtpcr,2021-08-14,n,y,y,,,,,,,,,
+gRD62e1wMoOWkrXS4zbWu95DXj93,21,healthy,2021-09-13,y,female,India,COIMBATORE,Tamil Nadu,n,n,True,,,,,n,,,,,,rtpcr,2021-04-23,n,y,n,,,,,,,,,
+ixSLHy4ZcqVDmFyk7TnDGcOcA3p1,67,resp_illness_not_identified,2021-09-03,y,male,India,Coimbatore,Tamil Nadu,n,y,True,True,True,True,,n,,,,,,rtpcr,2021-08-23,n,y,n,True,,,,True,True,,True,True
+JUzBsjVXNFPslTzz5G3x2cZ6JFg2,63,recovered_full,2021-09-04,y,female,India,Coimbatore,Tamil Nadu,n,n,True,True,True,True,2021-05-05,y,3.0,,,,,rtpcr,2021-05-05,p,y,n,True,,,,,,True,True,True
+lMENbuoFgAdokwyJxN0RiDDuiu03,27,healthy,2021-08-31,y,female,India,Coimbatore,Tamil Nadu,n,n,,,,,,n,,,,,,,,na,y,p,,,,,,,,,
+SBmgSU1SafhWfw4b8d4o07Iwzqw1,35,resp_illness_not_identified,2021-09-03,y,male,India,Coimbatore,Tamil Nadu,n,n,,,,,,n,,,,,True,,,na,y,n,True,True,True,,,,True,,
+mM5KRWXtilYLsOILvMB2WdRVVC53,24,healthy,2021-09-13,y,female,India,Coimbatore,Tamil Nadu,n,n,,,,,,n,,,,,,,,na,y,y,,,,,,,,,
+JSTw4Jhqo9dgB9tTfhSdMCdJCjN2,76,recovered_full,2021-09-01,n,male,India,Theni,Tamil Nadu,n,y,True,,,True,,n,,,,,,rtpcr,2021-03-05,p,y,p,True,True,,True,,,True,True,True
+OhLghpQHXfTAnqrO0ZuaGbHmrF12,20,resp_illness_not_identified,2021-09-11,y,female,India,Ooty,Tamil Nadu,n,n,True,,,True,,n,,,,,,rtpcr,2021-08-11,n,y,p,True,,,,,True,,,
+WKGEtOrHpLR8hGt1ytyj1I6PVvG2,72,resp_illness_not_identified,2021-09-01,n,male,India,Tiruppur,Tamil Nadu,n,y,,,True,,,n,,,,,,,,na,y,n,,,,,True,,True,True,
+6NiBykG0CrOooliPbuNAl6xRPal2,53,recovered_full,2021-09-01,n,male,India,Erode,Tamil Nadu,n,y,True,,True,True,2021-03-05,y,0.0,,,,True,rtpcr,2021-03-05,p,y,n,True,,,,,,True,True,True
+j9T8xrIEr4Z6BzX8bGfzYkDybIM2,62,resp_illness_not_identified,2021-08-31,n,male,India,Kallakuruchi,Tamil Nadu,n,y,True,,,True,,n,,,,,,,,na,y,y,True,,True,True,,,True,True,True
+qtgKzJUvX3d1bmYHEYvzuu8qQc63,55,resp_illness_not_identified,2021-09-04,y,male,India,Coimbatore,Tamil Nadu,n,y,,True,True,,,n,,,,,,rtpcr,2021-07-14,n,y,y,True,True,True,,,,True,,
+zyacTWAOJgUdZnhcEhAgJqm29Wb2,55,resp_illness_not_identified,2021-09-08,n,male,India,Coimbatore,Tamil Nadu,n,y,True,,True,True,,n,,,,,True,rtpcr,2021-08-18,n,y,n,True,,True,,,,True,True,True
+HZUzZEqeQMVXTrcxtytbLSjvP353,61,resp_illness_not_identified,2021-09-01,n,female,India,Tiruppur,Tamil Nadu,n,n,,True,,,,n,,,,,,,,na,y,n,True,True,,,,,,,
+k63JSSUHNSTZQa8tyVKT6wMPwoz2,24,recovered_full,2021-09-08,y,female,India,Coimbatore,Tamil Nadu,n,n,,,,,2021-07-17,y,0.0,,,,True,rtpcr,2021-07-16,p,y,y,True,,True,,,,True,,True
+nvtJhCfKkSheYFFpSkCxF1ZYnmr1,25,healthy,2021-09-13,y,female,India,Coimbatore,Tamil Nadu,n,n,,,,,,n,,,,,,,,na,y,y,,,,,,,,,
+zEVxg2ell6enCYjTDqsBLty8fh83,33,resp_illness_not_identified,2021-09-07,n,female,India,Tiruppur,Tamil Nadu,n,n,,,,True,,n,,,,,True,rtpcr,2021-09-05,n,y,p,,,True,True,,True,,True,
+z2wTauUrkdhkF4ZJJRfqYIkIwvF3,42,resp_illness_not_identified,2021-09-01,n,female,India,Theni,Tamil Nadu,n,n,,True,,True,,n,,,,,,,,na,y,n,True,True,,,,True,True,,
+2UBmxp7qG3Q3EvrK0A3siVhPGnL2,52,resp_illness_not_identified,2021-09-06,n,female,India,Coimbatore,Tamil Nadu,n,n,True,,,True,,n,,,,,True,,,na,y,p,True,True,True,True,,,True,,True
+saLiV2oREChEpRlmo4TikTNRuZV2,40,resp_illness_not_identified,2021-09-07,n,female,India,Coimbatore,Tamil Nadu,n,y,,True,,,,n,,,,,True,rtpcr,2021-06-24,n,y,p,True,True,,,,,True,,
+naMi0rECtaf6XTipx6sWhVm3J4D3,53,resp_illness_not_identified,2021-09-01,n,male,India,Coimbatore,Tamil Nadu,n,n,True,,,True,,n,,,,,,rtpcr,2021-08-18,n,y,p,,True,,,,,True,,
+vMU8ltVQM5SPsQzYanXxosJKcW12,64,recovered_full,2021-09-03,n,male,India,Coimbatore,Tamil Nadu,n,y,,,True,,2021-06-16,y,2.0,,,,,rtpcr,2021-06-16,p,y,n,True,,,,True,,,,True
+WskcfVs2drN8OfH5xhpJUzm8bA02,24,positive_asymp,2021-08-31,y,female,India,Tiruppur,Tamil Nadu,n,n,True,,,True,,n,,,,,,rtpcr,2021-07-16,p,y,n,,,,,,,,,
+WedAZ6DrnjVQSxRJY8qRajogvtD2,26,healthy,2021-08-31,y,female,India,Coimbatore,Tamil Nadu,n,n,,,,,,n,,,,,,,,na,y,y,,,,,,,,,
+BJ07uOrLOCbKZGwhOCajxBj8Y8g1,37,resp_illness_not_identified,2021-09-03,y,male,India,Coimbatore,Tamil Nadu,n,n,True,,,True,,n,,,,,,rtpcr,2021-08-31,n,y,y,True,,,,,True,True,True,
+y9eSqZBOJbUkIbg9oM0XSACsIg33,22,healthy,2021-09-13,y,female,India,Coimbatore,Tamil Nadu,n,n,,,,,,n,,,,,,rtpcr,2021-03-19,n,y,y,,,,,,,,,
+M7fB5i9Pj0Xh2wrlgUYZw47wojo1,19,healthy,2021-09-13,y,female,India,Coimbatore,Tamil Nadu,n,n,,,,,,n,,,,,,rtpcr,2021-08-14,n,y,y,,,,,,,,,
 0zAgZhOXaGhmL1SnhkzJOIoowKg2,31,healthy,2020-07-19,y,female,India,North 24 Parganas,West Bengal,n,,,,,,,,,,,,,,,,n,,,,,,,,,,
 N49IPlluNddotKfNlRNVJJ2Ad6E3,49,recovered_full,2020-07-14,y,female,India,Bangalore,Karnataka,n,,,True,,,,,,,True,,True,,,,n,,True,,True,,,True,,,True
 2Kc88N5ZQKXucjghAP4Jzq0Dnej2,52,healthy,2020-07-11,y,male,India,Bangalore urban,Karnataka,n,,,,True,,,,,,,,,,,,n,,True,,,,,,,,
