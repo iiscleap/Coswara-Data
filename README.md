@@ -65,7 +65,7 @@ Great to know you found it useful. You can cite the paper: Coswara - A Database 
 Each folder also has a CSV file which contains metadata of each sample (that is, participant).
 
 <strong>Can I know the individuals maintaining this project?</strong>
-Yes, we are a team of Professors, PostDocs, Engineers, and Research Scholars affiliated with the Indian Institute of Science, Bangalore (India). [Sriram Ganapathy](http://leap.ee.iisc.ac.in/sriram/), Assitant Professor, Dept. Electrical Engineering, IISc is the Principal Investigator of this project.
+Yes, we are a team of Professors, PostDocs, Engineers, and Research Scholars affiliated with the Indian Institute of Science, Bangalore (India). [Sriram Ganapathy](http://leap.ee.iisc.ac.in/sriram/), Assistant Professor, Dept. Electrical Engineering, IISc is the Principal Investigator of this project.
 
 Current Members: Debarpan Bhattachrya, Debottam Dutta, Neeraj Kumar Sharma, Prasanta Kumar Ghosh, Srikanth Raj Chetupalli, Sriram Ganapathy
 
