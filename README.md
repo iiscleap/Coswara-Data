@@ -2,16 +2,32 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
-Project Coswara by Indian Institute of Science (IISc) Bangalore is an attempt to build a diagnostic tool for Covid-19 based on respiratory, cough and speech sounds. The project is in the data collection stage now. It requires the participants to provide a recording of breathing sounds, cough sounds, sustained phonation of vowel sounds and a counting exercise.
+Project Coswara by Indian Institute of Science (IISc) Bangalore is an attempt to build a diagnostic tool for COVID-19 detection using the audio recordings such as breathing, cough and speech sounds of an individual. Currently, the project is in the data collection stage through crowdsourcing. To contribute your audio samples, please go to Project Coswara (https://coswara.iisc.ac.in/). The exercise takes 5-7 minutes.
 
-#### NOTE: This repository contains the raw audio data received at https://coswara.iisc.ac.in/ . The annotation process of this is ongoing (https://github.com/iiscleap/Coswara-Exp) and would be delayed compared to the uploaded data here.
+<strong>What am I looking at?</strong>
+This github repository contains the raw audio data collected through https://coswara.iisc.ac.in/ . Every participant contributes nine sound samples. You can read the paper: [Coswara - A Database of Breathing, Cough, and Voice Sounds for COVID-19 Diagnosis] (https://arxiv.org/abs/2005.10548) to know more about the dataset. Note that the dataset size has increased since this paper came out. We also maintain a (less frequently updated) blog [here] (https://iiscleap.github.io/coswara-blog/coswara/2020/11/23/visualize_coswara_data_metadata.html).
 
-#### This is the data repository for Project Coswara (https://coswara.iisc.ac.in/). To view more information about the database such as distributions of gender, age, etc. click [here](https://iiscleap.github.io/coswara-blog/coswara/2020/11/23/visualize_coswara_data_metadata.html).
-<p>Each folder contains metadata and recordings corresponding to a person.
+<strong>What is the structure of the repository?</strong>
+Each folder contains metadata and audio recordings corresponding to contributors. The folder is compressed. To download and extract the data, you can run the script `extract_data.py`
 
-To download and extract the data, you can run the script `extract_data.py`
+<strong>What are the different sound samples?</strong>
+Sound samples collected include breathing sounds (fast and slow), cough sounds (deep and shallow), phonation of sustained vowels (/a/ as in made, /i/,/o/), and counting numbers at slow and fast pace. Metadata information collected includes the participant's age, gender, location (country, state/ province), current health status (healthy/ exposed/ positive/recovered) and the presence of comorbidities (pre-existing medical conditions).
 
-Voice samples collected include breathing sounds (fast and slow), cough sounds (deep and shallow), phonation of sustained vowels (/a/ as in made, /i/,/o/), and counting numbers at slow and fast pace. Metadata information collected includes the participant's age, gender, location (country, state/ province), current health status (healthy/ exposed/ positive/recovered) and the presence of comorbidities (pre-existing medical conditions). </p>
+<strong>Can I see the metadata before downloading whole repository?</strong>
+Yes. The file `combined_data.csv` contains a summary of metadata. The file `csv_labels_legend.json` contains information about the columns present in `combined_data.csv`.
+
+<strong>How to cite this dataset in your work?</strong>
+Great to know you found it useful. You can cite the paper: Coswara - A Database of Breathing, Cough, and Voice Sounds for COVID-19 Diagnosis (https://arxiv.org/abs/2005.10548)
+@inproceedings{sharma20d_interspeech,
+  author={Neeraj Sharma and Prashant Krishnan and Rohit Kumar and Shreyas Ramoji and Srikanth Raj Chetupalli and Nirmala R. and Prasanta Kumar Ghosh and Sriram Ganapathy},
+  title={{Coswara — A Database of Breathing, Cough, and Voice Sounds for COVID-19 Diagnosis}},
+  year=2020,
+  booktitle={Proc. Interspeech 2020},
+  pages={4811--4815},
+  doi={10.21437/Interspeech.2020-2768}
+}
+
+<strong>What is the count of participants in each folder?</strong>
 
 - 2020-04-13 contains 76 samples.
 - 2020-04-15 contains 161 samples. 
@@ -53,6 +69,10 @@ Voice samples collected include breathing sounds (fast and slow), cough sounds (
 - 2021-08-16 contains 82 samples.
 - 2021-08-30 contains 64 samples. 
 - 2021-09-14 contains 37 samples.
-Each folder also has a CSV file which contains metadata of each sample.
+Each folder also has a CSV file which contains metadata of each sample (that is, participant).
 
-The file `csv_labels_legend.json` contains information about the columns present in `combined_data.csv` 
+<strong>Can I know the individuals maintaining this project?</strong>
+Yes, we are a team of Professors, PostDocs, Engineers, and Research Scholars affiliated with the Indian Institute of Science, Bangalore (India). [Sriram Ganapathy] (http://leap.ee.iisc.ac.in/sriram/), Assistant Professor, Dept. Electrical Engineering, IISc is the Principal Investigator of this project.
+
+Current Members: Debarpan Bhattachrya, Debottam Dutta, Neeraj Kumar Sharma, Prasanta Kumar Ghosh, Srikanth Raj Chetupalli, Sriram Ganapathy
+Past Members: Anand Mohan, Ananya Muguli, Prashant Krishnan, Rohit Kumar, Shreyas Ramoji
