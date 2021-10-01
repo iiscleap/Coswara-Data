@@ -61,6 +61,7 @@ Great to know you found it useful. You can cite the paper: Coswara - A Database 
 - 2021-08-16 contains 82 samples.
 - 2021-08-30 contains 64 samples. 
 - 2021-09-14 contains 37 samples.
+- 2021-09-30 contains 103 samples.
 
 Each folder also has a CSV file which contains metadata of each sample (that is, participant).
 
