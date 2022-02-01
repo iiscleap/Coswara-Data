@@ -11,7 +11,7 @@ import sys
 This script creates a folder "Extracted_data" inside which it extracts all the wav files in the directories date-wise
 '''
 
-path=sys.argv[0]
+path=sys.argv[1]
 path=path if len(path)>0 else '.'
 coswara_data_dir = os.path.abspath(path) # Local Path of iiscleap/Coswara-Data Repo
 extracted_data_dir = os.path.join(coswara_data_dir, 'Extracted_data')  
