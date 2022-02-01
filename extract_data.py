@@ -5,12 +5,15 @@ import numpy as np
 import glob
 import json
 import pandas as pd
+import sys
 
 '''
 This script creates a folder "Extracted_data" inside which it extracts all the wav files in the directories date-wise
 '''
 
-coswara_data_dir = os.path.abspath('.') # Local Path of iiscleap/Coswara-Data Repo
+path=sys.argv[0]
+path=path if len(path)>0 else '.'
+coswara_data_dir = os.path.abspath(path) # Local Path of iiscleap/Coswara-Data Repo
 extracted_data_dir = os.path.join(coswara_data_dir, 'Extracted_data')  
 
 if not os.path.exists(coswara_data_dir):
