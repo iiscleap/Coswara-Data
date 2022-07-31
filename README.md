@@ -75,6 +75,6 @@ Yes, we are a team of Professors, PostDocs, Engineers, and Research Scholars aff
 
 Current Members: Debarpan Bhattachrya, Neeraj Kumar Sharma, Prasanta Kumar Ghosh, Srikanth Raj Chetupalli, Sriram Ganapathy
 
-Past Members: Anand Mohan, Ananya Muguli, Prashant Krishnan, Rohit Kumar, Shreyas Ramoji, Debottam Dutta, Pravin Mote
+Past Members: Anand Mohan, Ananya Muguli, Debottam Dutta, Prashant Krishnan, Pravin Mote, Rohit Kumar, Shreyas Ramoji
 
 (arranged in alphabetical order)
