@@ -16,6 +16,9 @@ Sound samples collected include breathing sounds (fast and slow), cough sounds (
 <strong>Can I see the metadata before downloading whole repository?</strong>
 Yes. The file `combined_data.csv` contains a summary of metadata. The file `csv_labels_legend.json` contains information about the columns present in `combined_data.csv`.
 
+<strong>Is there any audio quality check?</strong>
+Yes. The audio files are manually listened and labeled as one of the three categories: 2(excellent), 1(good), 0(bad). The labels are present in the "annotations" folder.
+
 <strong>How to cite this dataset in your work?</strong>
 Great to know you found it useful. You can cite the paper: Coswara - A Database of Breathing, Cough, and Voice Sounds for COVID-19 Diagnosis (https://arxiv.org/abs/2005.10548)
 
