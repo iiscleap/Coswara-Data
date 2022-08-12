@@ -76,7 +76,7 @@ Each folder also has a CSV file which contains metadata of each sample (that is,
 <strong>Can I know the individuals maintaining this project?</strong>
 Yes, we are a team of Professors, PostDocs, Engineers, and Research Scholars affiliated with the Indian Institute of Science, Bangalore (India). [Sriram Ganapathy](http://leap.ee.iisc.ac.in/sriram/), Assistant Professor, Dept. Electrical Engineering, IISc is the Principal Investigator of this project.
 
-Current Members: Debarpan Bhattachrya, Neeraj Kumar Sharma, Prasanta Kumar Ghosh, Srikanth Raj Chetupalli, Sriram Ganapathy
+Current Members: Debarpan Bhattacharya, Neeraj Kumar Sharma, Prasanta Kumar Ghosh, Srikanth Raj Chetupalli, Sriram Ganapathy
 
 Past Members: Anand Mohan, Ananya Muguli, Debottam Dutta, Prashant Krishnan, Pravin Mote, Rohit Kumar, Shreyas Ramoji
 
