@@ -37,8 +37,8 @@ def extract(infile: str):
 
 
 for d in dirs_to_extract:
-    dir_ = os.listdir(os.path.join(coswara_data_dir, d))
-    part_files = [os.path.join(dir_, file) for file in dir_ if 'tar.gz' in file]
+    dir_ = os.path.join(coswara_data_dir, d)
+    part_files = [os.path.join(dir_, file) for file in os.listdir(dir_) if 'tar.gz' in file]
     extract(part_files)
     os.remove(os.path.join(extracted_data_dir, "temp.tar.gz"))
 
