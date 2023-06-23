@@ -2,7 +2,7 @@
 
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0) License</a>.
 
-<strong>UPDATE:</strong> The current full version of Coswara data is now published in <strong>Nature Scientific Data</strong>, 2023. The paper is Open access. [read](https://www.nature.com/articles/s41597-023-02266-0)
+<strong>UPDATE:</strong> The current full version of Coswara data is now published with open access in <strong>Nature Scientific Data</strong>, 2023. [read](https://www.nature.com/articles/s41597-023-02266-0)
 
 Project Coswara by Indian Institute of Science (IISc) Bangalore is an attempt to build a diagnostic tool for COVID-19 detection using the audio recordings such as breathing, cough and speech sounds of an individual. Currently, the project is in the data collection stage through crowdsourcing. To contribute your audio samples, please go to Project Coswara(https://coswara.iisc.ac.in/). The exercise takes 5-7 minutes.
 
